@@ -12,7 +12,7 @@ Creating bots is relatively easy in that we don't have to formally request autho
 
 ## Gab
 
-It is possible to replicate the accuracy prime experiment on Gab, but all interactions would have be done manually. Since the native search function only allows for hashtag-based searching, identifying posts that contain specific URLs would be time intensive. Likewise, extensive development work would be needed to pull complete network data via the Gap API.
+It is possible to replicate the accuracy prime experiment on Gab, but all interactions would have be done manually. Since the native search function only allows for hashtag-based searching, identifying posts that contain specific URLs would require us to retreive large volumes of posting activity and use regex to search the downloaded data. Likewise, extensive development work would be needed to pull complete network data via the Gap API.
 
 ## Twitter
 
